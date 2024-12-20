@@ -45,10 +45,6 @@ A simple and interactive Tic-Tac-Toe game built using HTML, CSS, and JavaScript.
    ```
 3. Open `index.html` in your preferred web browser.
 
-## Live Demo
-
-If you've enabled GitHub Pages, you can add the live URL here:
-[Play Tic-Tac-Toe](https://shanakarajapakshe.github.io/tic-tac-toe-game/)
 
 ## Project Structure
 
@@ -59,10 +55,6 @@ If you've enabled GitHub Pages, you can add the live URL here:
 └── script.js     # JavaScript file for game logic
 ```
 
-## Screenshots
-
-### Game Interface
-![Game Interface](https://via.placeholder.com/600x400.png?text=Tic-Tac-Toe+Screenshot)
 
 ## Future Improvements
 
