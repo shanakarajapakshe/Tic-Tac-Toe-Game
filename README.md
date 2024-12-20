@@ -48,7 +48,7 @@ A simple and interactive Tic-Tac-Toe game built using HTML, CSS, and JavaScript.
 ## Live Demo
 
 If you've enabled GitHub Pages, you can add the live URL here:
-[Play Tic-Tac-Toe](https://your-username.github.io/tic-tac-toe-game/)
+[Play Tic-Tac-Toe](https://shanakarajapakshe.github.io/tic-tac-toe-game/)
 
 ## Project Structure
 
